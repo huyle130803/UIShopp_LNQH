@@ -1,3 +1,3 @@
-tôi tên là : lê nguyễn quốc huy 
-sdth : 000
-địa chỉ : nhà số 0
+tôi tên là : lê nguyễn quốc huy số 2 nhé 
+sdth : 2
+địa chỉ : nhà số 2 
